@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrews-408
-- A Junior Frontend Developer
+- A Full-stack developer
 - 👀 Passionate about software engineering
 - 🌱 React Js, NodeJs, Express, Tailwind CSS, MongoDB , Styled Components
 - Familiar with typescript, javascript, python 
