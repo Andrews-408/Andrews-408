@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andrews-408
-- A Full-stack developer
+- 👋 Hi, I’m Andrews Yeboah
+- A Full-stack developer and AI/ML enthusiast
 - 👀 Passionate about software engineering
-- 🌱 React Js, NodeJs, Express, Tailwind CSS, MongoDB , Styled Components
+- 🌱 React Js, NodeJs, Express, Tailwind CSS, MongoDB, Postgres , Styled Components
 - Familiar with typescript, javascript, python 
-- I'm looking forward to collaborate on any project that uses MERN Stack
+
 
